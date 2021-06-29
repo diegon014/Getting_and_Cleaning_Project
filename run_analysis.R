@@ -60,3 +60,5 @@ final_data <- full_data %>%
         group_by(ActivityId,SubjectId) %>%
         summarise_all(funs(mean))
 
+#Write the final result to final_data.txt
+write.table(final_data, "final_data.txt", row.name=FALSE)
