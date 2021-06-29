@@ -1,7 +1,7 @@
 # Getting_and_Cleaning_Project
 
 ## Dataset
-The dataset was adquired from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip into the proyect folder with the name "UCI HAR Dataset"
+The dataset was adquired from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip into the project folder with the name "UCI HAR Dataset"
 
 ## Project Files
 `Code Book.md`: indicate all the variables and summaries calculated, along with units, and any other relevant information
